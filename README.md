@@ -1,5 +1,32 @@
 # Trucos-para-programadores
 
+![Trucos-para-programadores](https://www.elfueguino.com.ar/wp-content/uploads/2017/07/programadores-argentina.jpg)
+
+1. Lee y escribe mucho
+El primero de los consejos de este programador bien podría valer para el aprendizaje de un idioma. Cuanto más leas sobre código (libros, blogs, ejercicios de codificación, proyectos, etc) más y mejores prácticas conocerás, más soluciones a problemas aprenderás y mejor visión obtendrás de un determinado lenguaje o sistema.
+
+Y una vez hayas leído, ponlo en práctica (y además cuanto antes), para asegurarte de que lo que has aprendido lo entiendes y eres capaz de enfrentarte a un editor. Es como quien se aprende la gramática de un idioma pero nunca la emplea; a la hora de la verdad, no sabrá hablarlo o defenderse con él.
+
+2. Pide ayuda
+Si tu objetivo es aprender a programar en menos tiempo, no te atasques con un problema y pide ayuda. De lo contrario, puedes tirarte días o semanas intentando solucionarlo, cuando probablemente sea algo sencillo que alguien con cierta experiencia pueda resolver rápidamente.
+
+Hay miles de foros de programadores y desarrolladores web o plataformas de preguntas y respuestas (Stackoverflow, La web del programador) donde quizás tu duda está resuelta, y si no, siempre puedes plantearla para que alguien se ofrezca a ayudarte.
+
+3. Trabaja en proyecto paralelos
+Puede que quieras aprender a programar porque tienes que trabajar en una página web determinada. Si te centras en este proyectos, sólo aprenderás nociones específicas, de un lenguaje determinado. Para aprender de verdad y poder afrontar retos distintos, lo ideal es que trabajes en proyectos distintos, que te planteen situaciones diferentes.
+
+Para ello no te pongas límites: si se te ocurre una idea o quieres tratar de implementar algo nuevo, y en el proyecto en el que estás no puedes probarlo, puedes hacerlo en esos otros proyectos paralelos.
+
+4. No trates de entenderlo todo
+En desarrollo web y programación puede ocurrir que algo funcione sin que sepamos muy bien por qué (sobre todo si no somos expertos en el tema). Empecinarse demasiado cuando esto sucede y tratar de entender qué línea de código está mal, no siempre es buena idea, si el proyecto funciona según lo esperado.
+
+Según Silva, a medida que un programador madura, se va dando cuenta de que no merece la pena malgastar horas y horas en estos detalles. Lo ideal es que un proyecto esté al 80%.
+
+5. Habla con otros programadores
+Una buena manera de aprender programación es simplemente hablar de ella con otros programadores y desarrolladores. Sobre algo que estés aprendiendo, algo que te motive especialmente o algo en lo que estés trabajando. Conocerás bibliotecas, servicios, lenguajes de programación y patrones nuevos y describirás interpretaciones diversas a la tuya que igual de otro modo nunca te hubieras planteado.
+
+# Otros trucos para programar 
+
 **Estimar tiempos y cotizar proyectos**
 
 + Realizar una lista de nuestro proyecto que sea completa y detallada, de esta manera optimizaremos en gran medida nuestros tiempos de desarrollo
@@ -54,8 +81,13 @@ Permiten bloquear los sitios web que causan distracción
 + Bloquear las notificaciones del sistema operativo
 + Silenciar o apagar el celular.
 
+## Consejos para programadores
 
+# Comparte y acepta críticas a tu código
+Es universal. Ocurre en todas las profesiones. A nadie le gusta que le digan como hacer cosas que uno supone hace bien.  Pero compartir ideas y tomar en cuenta las recomendaciones de otros es casi tan útil como Google para aprender cosas nuevas.  Además mejoras tu ambiente laboral.
 
+# Crea librerías de ejemplos o soluciones
+No es que tengas que desarrollar librerías nuevas, se trata más bien de esos ejemplos, como conectarte a bases de datos, nombres de drivers, herramientas, comandos, funciones o técnicas de desarrollo que quizá aplicarás en tus proyectos más de una vez. En cualquier momento puedes usar el buscador y encontrar prácticamente todo lo que necesites, pero tener cosas ya probadas previamente por tí, es muy útil.
 
-
-
+# Descansa lejos de la computadora
+Esto debes hacerlo por puro amor propio y no sólo es descansar, ejercítate.  Algunos problemas de espalda y ojos derivados de pasar horas sentados frente a la computadora pueden agravarse y son difíciles de tratar.  Cuida tu cuerpo.
